@@ -15,8 +15,7 @@ implementation detail required to recover the original source code exactly
 (for example: number of filters, kernel sizes, activations, dropout rates,
 optimizer, learning rate, initialization, preprocessing, and random seed).
 
-Therefore, this repository is a **faithful reconstruction**, not a claim that
-it is the deleted original code. All assumptions are clearly documented below.
+This repository accompanies the associated publication and provides a TensorFlow/Keras implementation of the proposed methodology.
 
 ## CNN Architectures
 

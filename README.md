@@ -170,6 +170,7 @@ outputs/architecture_N/
 
 ## Citation
 
+``` bibtex
 @inproceedings{DBLP:conf/seeda/KanavosKPM22,
   author       = {Athanasios Kanavos and
                   Efstratios Kolovos and
@@ -189,6 +190,7 @@ outputs/architecture_N/
   biburl       = {https://dblp.org/rec/conf/seeda/KanavosKPM22.bib},
   bibsource    = {dblp computer science bibliography, https://dblp.org}
 }
+```
 
 ## License
 

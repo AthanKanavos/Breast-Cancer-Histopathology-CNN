@@ -170,7 +170,25 @@ outputs/architecture_N/
 
 ## Citation
 
-Add the complete IEEE/BibTeX citation of the published paper here.
+@inproceedings{DBLP:conf/seeda/KanavosKPM22,
+  author       = {Athanasios Kanavos and
+                  Efstratios Kolovos and
+                  Orestis Papadimitriou and
+                  Manolis Maragoudakis},
+  title        = {Breast Cancer Classification of Histopathological Images using Deep
+                  Convolutional Neural Networks},
+  booktitle    = {7th South-East Europe Design Automation, Computer Engineering, Computer
+                  Networks and Social Media Conference, {SEEDA-CECNSM} 2022, Ioannina,
+                  Greece, September 23-25, 2022},
+  pages        = {1--6},
+  publisher    = {{IEEE}},
+  year         = {2022},
+  url          = {https://doi.org/10.1109/SEEDA-CECNSM57760.2022.9932898},
+  doi          = {10.1109/SEEDA-CECNSM57760.2022.9932898},
+  timestamp    = {Mon, 03 Mar 2025 21:21:16 +0100},
+  biburl       = {https://dblp.org/rec/conf/seeda/KanavosKPM22.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}
 
 ## License
 

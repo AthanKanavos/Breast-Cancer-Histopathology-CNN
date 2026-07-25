@@ -169,6 +169,8 @@ outputs/architecture_N/
 
 ## Citation
 
+If you use this implementation in your research, please cite the original paper.
+
 ``` bibtex
 @inproceedings{DBLP:conf/seeda/KanavosKPM22,
   author       = {Athanasios Kanavos and

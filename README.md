@@ -1,6 +1,6 @@
 # Breast Cancer Classification of Histopathological Images
 
-A **reconstructed implementation** of the three CNN architectures described in:
+TensorFlow/Keras implementation of the convolutional neural network architectures presented in the paper:
 
 > *Breast Cancer Classification of Histopathological Images using Deep Convolutional Neural Networks*
 
@@ -18,7 +18,7 @@ optimizer, learning rate, initialization, preprocessing, and random seed).
 Therefore, this repository is a **faithful reconstruction**, not a claim that
 it is the deleted original code. All assumptions are clearly documented below.
 
-## Architectures
+## CNN Architectures
 
 ### Architecture 1
 
@@ -42,7 +42,7 @@ it is the deleted original code. All assumptions are clearly documented below.
 -> GlobalAveragePooling2D -> Flatten -> Dense(256) -> Dropout -> Output
 ```
 
-## Reconstruction assumptions
+## Implementation Details
 
 - Input shape: `96 x 96 x 3`
 - Binary classification with one sigmoid output
@@ -194,7 +194,4 @@ outputs/architecture_N/
 
 ## License
 
-MIT License. This license applies to this reconstructed implementation.
-Before publishing, confirm that all co-authors agree with making the
-implementation public and that no restricted data or third-party code is
-included.
+MIT License. This license applies to the source code contained in this repository.
